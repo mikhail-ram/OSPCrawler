@@ -7,16 +7,16 @@ Automated tool that takes a YouTube channel name as input and downloads all the 
 ## Installation (using conda)
 
 ```bash
-    git clone https://github.com/mikhail-ram/OSPCrawler
-    cd OSPCrawler
-    conda env create --file ospcrawler.yaml
+git clone https://github.com/mikhail-ram/OSPCrawler
+cd OSPCrawler
+conda env create --file ospcrawler.yaml
 ```
 
 ## Usage
 
 ```bash
-    conda activate ospcrawler
-    python ospcrawler.py
+conda activate ospcrawler
+python ospcrawler.py
 ```
 
 ## Output (works with typos)
