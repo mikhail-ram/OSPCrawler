@@ -4,6 +4,10 @@
 
 Automated tool that takes a YouTube channel name as input and downloads all the comments related to the channel to a CSV file.
 
+## Flowchart
+
+![Flowchart](/images/flowchart.png?raw=true "Flowchart")
+
 ## Installation (using conda)
 
 ```bash
